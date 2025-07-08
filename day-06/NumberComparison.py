@@ -24,3 +24,7 @@ if __name__ == "__main__":
     except ValueError:
         print("Please enter valid numbers.")
 
+# Sample Input/Output
+# Enter the first number: 10
+# Enter the second number: 5
+# 10.0 is larger than 5.0.
