@@ -16,6 +16,9 @@ A collection of Python programming exercises for learning and practice using Cop
 - [Day 10: Name List](day-10/NameList.py)
 - [Day 11: Grade Average](day-11/GradeAverage.py)
 - [Day 12: Countdown Timer](day-12/CountdownTimer.py)
+- [Day 13: List Maximum](day-13/ListMaximum.py)
+- [Day 14: Vowel Counter](day-14/VowelCounter.py)
+- [Day 15: Name Formatter](day-15/NameFormatter.py)
 
 ## Getting Started
 
